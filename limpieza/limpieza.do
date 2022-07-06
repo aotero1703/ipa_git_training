@@ -1,0 +1,4 @@
+
+clear
+
+set more off

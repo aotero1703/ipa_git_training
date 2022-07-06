@@ -1,4 +1,4 @@
 cls
 clear
 set more off
-di "IPA_training"
+di "IPA_training :)"
